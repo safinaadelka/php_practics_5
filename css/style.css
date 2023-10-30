@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 20px;
+  color: rgb(212, 212, 212);
+  font-family: sans-serif;
+}
+
+h2 {
+  font-size: 25px;
+  color: white;
+}
+
+.container {
+  max-width: 550px;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  gap: 16px;
+  background-color: #2039a9;
+  padding: 30px;
+  color: white;
+
+  border-radius: 10px;
+}
+
+body {
+  margin-top: 10px;
+  background-color: #a7b7fd;
+}
+
+
+body:last-child {
+  margin-bottom: 32px;
+}
